@@ -1,4 +1,4 @@
 
 module.exports={
-    JWT_SECRET:"PAYTMB"
+    JWT_SECRET:"PKINNOVATIVES"
 }
